@@ -24,7 +24,7 @@ This AI-powered research assistant leverages multi-agent collaboration to fetch,
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-research-assistant.git
+   git clone https://github.com/MVenkatsai02/Research-assistant-Agent
    cd ai-research-assistant
    ```
 2. Install dependencies:
